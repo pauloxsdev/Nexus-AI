@@ -1,4 +1,4 @@
-# 🎮 Nexus - Plataforma EdTech para Game Dev (Protótipo UI/UX)
+# 🎮 Nexus - Plataforma Educacional para Desenvolvimento de Jogos (Protótipo UI/UX)
 
 > **⚠️ AVISO:** Este repositório contém o **design conceitual e o protótipo navegável** da plataforma construído no **Figma**. O projeto atual é uma demonstração visual e interativa de Experiência do Usuário (UX/UI), e não uma aplicação funcional em código.
 
